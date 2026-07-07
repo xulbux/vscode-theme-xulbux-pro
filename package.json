@@ -1,0 +1,69 @@
+{
+  "name": "theme-xulbux-neon-pro",
+  "version": "1.4.1",
+  "displayName": "Theme XulbuX PRO",
+  "description": "Theme pack which focuses on clear syntax and beautiful colors.",
+  "icon": "icon.png",
+  "author": { "name": "XulbuX", "email": "xulbux.real@gmail.com" },
+  "publisher": "xulbux",
+  "maintainers": ["XulbuX <xulbux.real@gmail.com>"],
+	"license": "MIT",
+  "repository": {
+    "url": "https://github.com/xulbux/vscode-theme-xulbux-pro",
+    "type": "git"
+  },
+  "bugs": { "url": "https://github.com/xulbux/vscode/issues" },
+  "sponsor": { "url": "https://github.com/sponsors/xulbux" },
+  "engines": { "vscode": "^1.87.0" },
+  "categories": ["Themes", "Visualization"],
+  "keywords": [
+    "accessible",
+    "blue",
+    "color",
+    "colorful",
+    "comprehensive",
+    "dark",
+    "extensive",
+    "modern",
+    "neon",
+    "pro",
+    "professional",
+    "purple",
+    "semantic",
+    "syntax",
+    "theme",
+    "vaporwave",
+    "vibrant",
+    "xulbux"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "XulbuX PRO",
+        "uiTheme": "vs-dark",
+        "path": "./theme/xulbux-pro.json"
+      },
+      {
+        "label": "XulbuX PRO Legacy",
+        "uiTheme": "vs-dark",
+        "path": "./theme/xulbux-pro-legacy.json"
+      },
+      {
+        "label": "XulbuX VaporWave",
+        "uiTheme": "vs-dark",
+        "path": "./theme/xulbux-vaporwave.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "39cf6240-75d9-4602-97ff-1c0b1e355e94",
+    "publisherId": "77f5e7c0-42af-4d80-ab24-d9657bfebe93",
+    "publisherDisplayName": "XulbuX",
+    "targetPlatform": "undefined",
+    "updated": false,
+    "isPreReleaseVersion": false,
+    "hasPreReleaseVersion": false,
+    "installedTimestamp": 1710139219097,
+    "pinned": false
+  }
+}
