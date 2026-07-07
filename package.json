@@ -12,7 +12,7 @@
     "url": "https://github.com/xulbux/vscode-theme-xulbux-pro",
     "type": "git"
   },
-  "bugs": { "url": "https://github.com/xulbux/vscode/issues" },
+  "bugs": { "url": "https://github.com/xulbux/vscode-theme-xulbux-pro/issues" },
   "sponsor": { "url": "https://github.com/sponsors/xulbux" },
   "engines": { "vscode": "^1.87.0" },
   "categories": ["Themes", "Visualization"],
