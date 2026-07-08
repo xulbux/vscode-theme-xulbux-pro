@@ -3,7 +3,7 @@
   "version": "1.4.1",
   "displayName": "Theme XulbuX PRO",
   "description": "Theme pack which focuses on clear syntax and beautiful colors.",
-  "icon": "icon.png",
+  "icon": "./assets/icon.png",
   "author": { "name": "XulbuX", "email": "xulbux.real@gmail.com" },
   "publisher": "xulbux",
   "maintainers": ["XulbuX <xulbux.real@gmail.com>"],
