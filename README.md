@@ -1,6 +1,6 @@
 <span id="top" />
 
-# <span style="color:#2DE0D8">Theme</span> <span style="color:#8085FF"><b>XulbuX</b></span> <span style="color:#FF6B75">PRO</span> <a href="https://github.com/xulbux/vscode-theme-xulbux-pro"><img align="right" width="36" src="https://github.com/xulbux/vscode-theme-xulbux-pro/blob/main/assets/icon.png?raw=true"></a>
+# <span style="color:#2DE0D8">Theme</span> <span style="color:#8085FF"><b>XulbuX</b></span> <span style="color:#FF6B75">PRO</span><a href="https://github.com/xulbux/vscode-theme-xulbux-pro"><img align="right" width="36" src="https://github.com/xulbux/vscode-theme-xulbux-pro/blob/main/assets/icon.png?raw=true"></a>
 
 ### Theme pack that focuses on <span style="color:#AB8FFF">**clear syntax**</span> and <span style="color:#AB8FFF">**beautiful colors**</span>.
 
