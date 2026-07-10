@@ -749,8 +749,8 @@
     "textCodeBlock.background": "#121316",
     "textLink.activeForeground": "#BEA8FF",
     "textLink.foreground": "#AB8FFF",
-    "textPreformat.background": "#FBFCFF20", // INLINE CODE
-    "textPreformat.foreground": "#FBFCFF",
+    "textPreformat.background": "#FBFCFF1B", // INLINE CODE
+    "textPreformat.foreground": "#FBFCFF9A",
     "textSeparator.foreground": "#66676A",
     "titleBar.activeBackground": "#252629",
     "titleBar.activeForeground": "#86878A",
