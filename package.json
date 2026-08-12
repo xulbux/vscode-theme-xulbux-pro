@@ -1,21 +1,12 @@
 {
   "name": "theme-xulbux-neon-pro",
-  "version": "1.4.1",
   "displayName": "Theme XulbuX PRO",
+  "version": "1.4.1",
   "description": "Theme pack which focuses on clear syntax and beautiful colors.",
-  "icon": "./assets/icon.png",
-  "author": { "name": "XulbuX", "email": "xulbux.real@gmail.com" },
-  "publisher": "xulbux",
-  "maintainers": ["XulbuX <xulbux.real@gmail.com>"],
-	"license": "MIT",
-  "repository": {
-    "url": "https://github.com/xulbux/vscode-theme-xulbux-pro",
-    "type": "git"
-  },
-  "bugs": { "url": "https://github.com/xulbux/vscode-theme-xulbux-pro/issues" },
-  "sponsor": { "url": "https://github.com/sponsors/xulbux" },
-  "engines": { "vscode": "^1.87.0" },
-  "categories": ["Themes", "Visualization"],
+  "categories": [
+    "Themes",
+    "Visualization"
+  ],
   "keywords": [
     "accessible",
     "blue",
@@ -36,6 +27,25 @@
     "vibrant",
     "xulbux"
   ],
+  "bugs": {
+    "url": "https://github.com/xulbux/vscode-theme-xulbux-pro/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "XulbuX",
+    "email": "hi@xul.is"
+  },
+  "maintainers": [
+    "XulbuX <hi@xul.is>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xulbux/vscode-theme-xulbux-pro"
+  },
+  "sponsor": {
+    "url": "https://github.com/sponsors/xulbux"
+  },
+  "publisher": "xulbux",
   "contributes": {
     "themes": [
       {
@@ -54,6 +64,10 @@
         "path": "./theme/xulbux-vaporwave.json"
       }
     ]
+  },
+  "icon": "./assets/icon.png",
+  "engines": {
+    "vscode": "^1.87.0"
   },
   "__metadata": {
     "id": "39cf6240-75d9-4602-97ff-1c0b1e355e94",
