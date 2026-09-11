@@ -1,12 +1,9 @@
 {
   "name": "theme-xulbux-neon-pro",
   "displayName": "Theme XulbuX PRO",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "Theme pack which focuses on clear syntax and beautiful colors.",
-  "categories": [
-    "Themes",
-    "Visualization"
-  ],
+  "categories": ["Themes", "Visualization"],
   "keywords": [
     "accessible",
     "blue",
@@ -27,48 +24,22 @@
     "vibrant",
     "xulbux"
   ],
-  "bugs": {
-    "url": "https://github.com/xulbux/vscode-theme-xulbux-pro/issues"
-  },
+  "bugs": { "url": "https://github.com/xulbux/vscode-theme-xulbux-pro/issues" },
   "license": "MIT",
-  "author": {
-    "name": "XulbuX",
-    "email": "hi@xul.is"
-  },
-  "maintainers": [
-    "XulbuX <hi@xul.is>"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/xulbux/vscode-theme-xulbux-pro"
-  },
-  "sponsor": {
-    "url": "https://github.com/sponsors/xulbux"
-  },
+  "author": { "name": "XulbuX", "email": "hi@xul.is" },
+  "maintainers": ["XulbuX <hi@xul.is>"],
+  "repository": { "type": "git", "url": "https://github.com/xulbux/vscode-theme-xulbux-pro" },
+  "sponsor": { "url": "https://github.com/sponsors/xulbux" },
   "publisher": "xulbux",
   "contributes": {
     "themes": [
-      {
-        "label": "XulbuX PRO",
-        "uiTheme": "vs-dark",
-        "path": "./theme/xulbux-pro.json"
-      },
-      {
-        "label": "XulbuX PRO Legacy",
-        "uiTheme": "vs-dark",
-        "path": "./theme/xulbux-pro-legacy.json"
-      },
-      {
-        "label": "XulbuX VaporWave",
-        "uiTheme": "vs-dark",
-        "path": "./theme/xulbux-vaporwave.json"
-      }
+      { "label": "XulbuX PRO", "uiTheme": "vs-dark", "path": "./theme/xulbux-pro.json" },
+      { "label": "XulbuX PRO Legacy", "uiTheme": "vs-dark", "path": "./theme/xulbux-pro-legacy.json" },
+      { "label": "XulbuX VaporWave", "uiTheme": "vs-dark", "path": "./theme/xulbux-vaporwave.json" }
     ]
   },
   "icon": "./assets/icon.png",
-  "engines": {
-    "vscode": "^1.87.0"
-  },
+  "engines": { "vscode": "^1.87.0" },
   "__metadata": {
     "id": "39cf6240-75d9-4602-97ff-1c0b1e355e94",
     "publisherId": "77f5e7c0-42af-4d80-ab24-d9657bfebe93",

@@ -1,50 +1,43 @@
 <span id="top" />
 
-# <span style="color:#2DE0D8">Theme</span> <span style="color:#8085FF"><b>XulbuX</b></span> <span style="color:#FF6B75">PRO</span><a href="https://github.com/xulbux/vscode-theme-xulbux-pro"><img align="right" width="36" src="https://github.com/xulbux/vscode-theme-xulbux-pro/blob/main/assets/icon.png?raw=true"></a>
-
-### Theme pack that focuses on <span style="color:#AB8FFF">**clear syntax**</span> and <span style="color:#AB8FFF">**beautiful colors**</span>.
+<div align="center">
+<br><br>
+<h1>
+<a href="https://github.com/xulbux/vscode-theme-xulbux-pro"><img height="64" src="https://github.com/xulbux/vscode-theme-xulbux-pro/blob/main/assets/icon.png?raw=true"></a>
+<br>
+Theme XulbuX PRO
+<br><br>
+<a href="https://open-vsx.org/extension/xulbux/theme-xulbux-neon-pro"><img src="https://img.shields.io/open-vsx/v/xulbux/theme-xulbux-neon-pro?style=flat&labelColor=404560&color=7075FF"/></a> <a href="https://open-vsx.org/extension/xulbux/theme-xulbux-neon-pro"><img src="https://img.shields.io/open-vsx/dt/xulbux/theme-xulbux-neon-pro?style=flat&labelColor=404560&color=7075FF"/></a> <a href="https://github.com/xulbux/vscode-theme-xulbux-pro/blob/main/LICENSE"><img src="https://img.shields.io/github/license/xulbux/vscode-theme-xulbux-pro?style=flat&labelColor=404560&color=A6A8FF"/></a> <a href="https://github.com/xulbux/vscode-theme-xulbux-pro/commits"><img src="https://img.shields.io/github/last-commit/xulbux/vscode-theme-xulbux-pro?style=flat&labelColor=55404A&color=FF608A"/></a> <a href="https://github.com/xulbux/vscode-theme-xulbux-pro/issues"><img src="https://img.shields.io/github/issues/xulbux/vscode-theme-xulbux-pro?style=flat&labelColor=55404A&color=FF608A"/></a> <a href="https://github.com/xulbux/vscode-theme-xulbux-pro/stargazers"><img src="https://img.shields.io/github/stars/xulbux/vscode-theme-xulbux-pro?label=★&style=flat&labelColor=55404A&color=FF8FB4"/></a>
+</h1>
+<h3>Theme pack that focuses on clear syntax and beautiful colors.</h3>
+<br><br>
+</div>
 
 This VS Code extension contains three themes, which all try to make the IDE look good and provide very clear syntax highlighting.
 
 > <br>
-> 🎨 To get a better feeling of how the themes look on the code, continue at the <a href="#previews"><strong>theme previews</strong></a>.
+> 🎨 To get a better feeling of how the themes look on the code, continue at the <a href="#previews"><b>previews</b></a>.
 > <br>
 > <br>
 
 <br>
-
-### **Enjoying these themes? Have suggestions?**
-
-Please consider leaving a review on the [**Visual Studio Marketplace**](https://marketplace.visualstudio.com/items?itemName=xulbux.theme-xulbux-neon-pro) or giving a ⭐ on [**GitHub**](https://github.com/xulbux/vscode).
-
-
-<br>
 <br>
 
+<span id="installation" />
 
-## Apply a Theme ⚙️
+## Installation 📦
 
-1.  Open the command input by pressing `Ctrl(⌘) + Shift + P` or the `F1` key.
+Search for **Theme XulbuX PRO** in the VS Code extensions panel, or install via the command line:
 
-2.  Type «*color theme*» in the input field and select `Preferences: Color Theme` from the list.
-
-3.  Search for `XulbuX PRO`, `XulbuX PRO Legacy` or `XulbuX VaporWave` and select one to apply it.
-
-<br>
-
-> <br>
-> 💡 My personal recommendation is to use <span style="color:#FF9E6A"><strong>XulbuX PRO</strong></span> for the best experience.
-> <br>
-> <br>
-
+```bash
+ext install xulbux.theme-xulbux-neon-pro
+```
 
 <br>
-<br>
-
 
 <span id="colors" />
 
-## Theme Info 📋
+## Features ⚡
 
 <table>
   <thead>
@@ -109,16 +102,28 @@ Please consider leaving a review on the [**Visual Studio Marketplace**](https://
   </tbody>
 </table>
 
-
-<br>
 <br>
 
+<span id="apply" />
+
+## Configuration ⚙️
+
+1.  Open the command input by pressing `Ctrl(⌘) + Shift + P` or the `F1` key.
+
+2.  Type «*color theme*» in the input field and select `Preferences: Color Theme` from the list.
+
+3.  Search for `XulbuX PRO`, `XulbuX PRO Legacy` or `XulbuX VaporWave` and select one to apply it.
+
+> <br>
+> 💡 My personal recommendation is to use <span style="color:#FF9E6A"><b>XulbuX PRO</b></span> for the best experience.
+> <br>
+> <br>
+
+<br>
 
 <span id="previews" />
 
 ## Theme Previews ✨
-
-<span id="preview-cpp" />
 
 ### C++
 
@@ -131,8 +136,6 @@ Please consider leaving a review on the [**Visual Studio Marketplace**](https://
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**XulbuX VaporWave**&nbsp;
 > <a href="https://github.com/xulbux/vscode-theme-xulbux-pro/blob/main/assets/preview/cpp_xulbux-vaporwave.png"><img src="https://github.com/xulbux/vscode-theme-xulbux-pro/blob/main/assets/preview/cpp_xulbux-vaporwave.png?raw=true" alt="C++ | XulbuX VaporWave | Syntax Highlighting" height="330" align="center"></a>
 
-<span id="preview-java" />
-
 ### Java
 
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**XulbuX PRO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -143,8 +146,6 @@ Please consider leaving a review on the [**Visual Studio Marketplace**](https://
 
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**XulbuX VaporWave**&nbsp;
 > <a href="https://github.com/xulbux/vscode-theme-xulbux-pro/blob/main/assets/preview/java_xulbux-vaporwave.png"><img src="https://github.com/xulbux/vscode-theme-xulbux-pro/blob/main/assets/preview/java_xulbux-vaporwave.png?raw=true" alt="Java | XulbuX VaporWave | Syntax Highlighting" height="312" align="center"></a>
-
-<span id="preview-py" />
 
 ### Python
 
@@ -157,8 +158,6 @@ Please consider leaving a review on the [**Visual Studio Marketplace**](https://
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**XulbuX VaporWave**&nbsp;
 > <a href="https://github.com/xulbux/vscode-theme-xulbux-pro/blob/main/assets/preview/py_xulbux-vaporwave.png"><img src="https://github.com/xulbux/vscode-theme-xulbux-pro/blob/main/assets/preview/py_xulbux-vaporwave.png?raw=true" alt="Python | XulbuX VaporWave | Syntax Highlighting" height="204" align="center"></a>
 
-<span id="preview-vue" />
-
 ### Vue.js
 
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**XulbuX PRO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -170,75 +169,16 @@ Please consider leaving a review on the [**Visual Studio Marketplace**](https://
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**XulbuX VaporWave**&nbsp;
 > <a href="https://github.com/xulbux/vscode-theme-xulbux-pro/blob/main/assets/preview/vue_xulbux-vaporwave.png"><img src="https://github.com/xulbux/vscode-theme-xulbux-pro/blob/main/assets/preview/vue_xulbux-vaporwave.png?raw=true" alt="Vue.js | XulbuX VaporWave | Syntax Highlighting" height="276" align="center"></a>
 
-
-<br>
 <br>
 
+## Enjoying this theme? Have suggestions?
 
-## Preview Code Samples 🧪
-
-### C++
-
-```cpp
-#include <iostream>
-#include <cstdlib>
-#include <ctime>
-
-int main() {
-  std::srand(std::time(0));
-  for (int IDX = 10; IDX > 0; --IDX) {
-    int x = std::rand() % 10 + 1 + IDX;
-    std::cout << "NUMBER: " << x << std::endl;
-  }
-  return 0;
-}
-```
-
-### Java
-
-```java
-import java.util.Random;
-
-public class Example {
-  public static void main(String[] args) {
-    Random random = new Random();
-    for (int IDX = 10; IDX > 0; --IDX) {
-      int x = random.nextInt(10) + 1 + IDX;
-      System.out.println("NUMBER: " + x);
-    }
-  }
-}
-```
-
-### Python
-
-```python
-import random
-
-for IDX in range(10, 0, -1):
-    x = random.randint(1, 10) + IDX
-    print(f"NUMBER: {x}")
-```
-
-### Vue.js
-
-```vue
-<template>
-  <div v-for="i in 10" :key="i">
-    NUMBER: {{ randNum() }}
-  </div>
-</template>
-
-<script setup lang="ts">
-const randNum = () => Math.floor(Math.random() * 100);
-</script>
-```
-
+Please consider giving a ⭐ on [**GitHub**](https://github.com/xulbux/vscode-theme-xulbux-pro) or leaving a review on [**Open VSX**](https://open-vsx.org/extension/xulbux/theme-xulbux-neon-pro) or the [**Visual Studio Marketplace**](https://marketplace.visualstudio.com/items?itemName=xulbux.theme-xulbux-neon-pro).
 
 <br>
 <br>
 <br>
 
+---
 
-------------------------------------------------------------------------------------------
-✨ Always creating more cool stuff for you! ✨ —⠀[**XulbuX**](https://github.com/xulbux)
+✨ Always creating more cool stuff for you! ✨ —⠀[**XulbuX**](https://xulbux.com)

@@ -1,16 +1,17 @@
-# GitHub resources
+# GitHub resources:
 .github/
 
-# Preview images & code samples
+# Preview images & code samples:
 assets/preview/
 
-# VSix package archives
+# VSix package archives:
 packages/
 
-# Text files (color palettes, …) in theme folder
+# Text files (color palettes, …) in theme folder:
 theme/*.txt
-# Older theme files (specific version in filename)
+# Older theme files (specific version in filename):
 theme/*1.*.*.json
 
-# GitIgnore file
+# Config files:
 .gitignore
+.markdownlint.json
