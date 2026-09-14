@@ -170,6 +170,8 @@ ext install xulbux.theme-xulbux-neon-pro
 > <a href="https://github.com/xulbux/vscode-theme-xulbux-pro/blob/main/assets/preview/vue_xulbux-vaporwave.png"><img src="https://github.com/xulbux/vscode-theme-xulbux-pro/blob/main/assets/preview/vue_xulbux-vaporwave.png?raw=true" alt="Vue.js | XulbuX VaporWave | Syntax Highlighting" height="276" align="center"></a>
 
 <br>
+<br>
+<br>
 
 ## Enjoying this theme? Have suggestions?
 
